@@ -8,6 +8,7 @@ This project demonstrates advanced mastery of **Server-Side Rendering (SSR)**, *
 
 
 ## 📸 Visual Preview
+| Product Gallery | Secure Checkout |
 <img width="1365" height="644" alt="image" src="https://github.com/user-attachments/assets/e0fee416-92ce-40c5-98aa-c3bda9e3f823" />
 <img width="1304" height="630" alt="image" src="https://github.com/user-attachments/assets/2d8da646-ebcd-4dc3-99d0-63f085e646cb" />
 <img width="1280" height="565" alt="image" src="https://github.com/user-attachments/assets/fcd3fc28-74e8-421f-97fe-20a2edf9a9a3" />
@@ -24,11 +25,8 @@ This project demonstrates advanced mastery of **Server-Side Rendering (SSR)**, *
 
 
 
-| Product Gallery | Secure Checkout |
-| :---: | :---: |
-| ![Storefront Screenshot](PASTE_URL_HERE) | ![Checkout/Auth Screenshot](PASTE_URL_HERE) |
 
----
+
 
 ## 🚀 Key Features
 
